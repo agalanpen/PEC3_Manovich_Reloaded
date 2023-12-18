@@ -81,14 +81,19 @@ Dependiendo de la red donde se esté trabajando hay distinta comisiones a la hor
  3. **Derechos de autor**: Cuando adquieres una obra de arte en NFTs los derechos de autor siguen siendo del creador del mismo, esto significa que invirtiendo una gran cantidad de dinero para adquirir esa obra los derechos de autor seguirán siendo del creador.
 
 <img src="https://www.criptonoticias.com/wp-content/uploads/2018/12/GMO-miner%C3%ADa-cese-criptomonedas.jpg" alt="FLSTUDIO" width="600px">
-
+*Imagen de una granja de minería dentro de la blockchain [Mineria de criptomonedas](https://www.criptonoticias.com/mineria/gmo-fabricara-hardware-mineria-criptomonedas/)*
 ### Resumen
 
 En resumen los **NFTs** son las obras de arte tecnológicas del futuro, son muy seguras ya que utilizan el protocolo de las blockchain y es imposible falsificar nada ya que cada transacción tiene que ser validada. Gracias a las **plataforma de compra-venta de NFTs** se pueden intercambiar numerosas obras de arte de manera transparente y anónima ya que cada **dirección de wallet** es anónima y no va asociada a ninguna persona. Dentro de los casos de **hibridación** podemos categorizarlo dentro de hibridación en la que asociamos a un objeto digital un valor comercial mediante tecnología. 
 
+Por lo que: 
 
 
-
-
+> «El uso de la acepción de medio como “medio digital u objeto
+digital” es todavía mucho más infrecuente que en el ámbito
+anglosajón, aunque se prevé que con el tiempo su uso será más
+habitual».
+>
+> -Pagina 385 Sección de **notas**  del libro de *El software toma el mando* de **Manovich**
 
 ## Referencias y Bibliografía
