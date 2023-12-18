@@ -1,6 +1,7 @@
 # PEC3_Manovich_Reloaded
 
 **Fecha:** 12-2023.
+
 **Autor:** Álvaro Galán Peña.
 
 ##Introducción
