@@ -98,8 +98,12 @@ habitual».
 
 
 
+
 ## Conclusiones
-Me ha parecido un trabajo muy curioso y entretenido donde he aprendido a clasificar los tipos de hibridación según el libro de *El software toma el mando* de **Manovich**. Gracias a nuestro tutor por estar atento a todas las cuestiones que he tenido a la hora de elegir mi caso de hibridación he conseguido lograr los objetivos de esta entrega. También he aprendido mucho respecto a los casos escogidos, como en este caso **FLStudio** un programa para producir música y sobre el mundo de los  **NFTs** que permiten el comercio único de obras de arte como canciones, imágenes GIFs ... 
+Me ha parecido un trabajo muy curioso y entretenido donde he aprendido a clasificar los tipos de hibridación según el libro de *El software toma el mando* de **Manovich**. Gracias a nuestro tutor por estar atento a todas las cuestiones que he tenido a la hora de elegir mi caso de hibridación he conseguido lograr los objetivos de esta entrega. También he aprendido mucho respecto a los casos escogidos, como en este caso **FLStudio** un programa para producir música y sobre el mundo de los  **NFTs** que permiten el comercio único de obras de arte como canciones, imágenes GIFs ... También por último he aprendido a utilizar el lenguaje de programación MarkDown y utilizar la plataforma de Github para poder trabajar, me ha parecido interesante para el desarrollo de programas ya que puedes estar editando el repositorio y ir añadiendo nuevas versiones a nuestro proyecto. 
+
+
+
 ## Referencias y Bibliografía
 
 - **Wikipedia** *Fecha de consulta: 17 Diciembre de 2023* "Que es FLStudio" https://es.wikipedia.org/wiki/FL_Studio
