@@ -97,3 +97,10 @@ habitual».
 > -Pagina 385 Sección de **notas**  del libro de *El software toma el mando* de **Manovich**
 
 ## Referencias y Bibliografía
+
+- **Wikipedia** *Fecha de consulta: 17 Diciembre de 2023* "Que es FLStudio" https://es.wikipedia.org/wiki/FL_Studio
+- **Bit2me** *Fecha de consulta: 17 Diciembre de 2023* "Principales usos de los NFTs" https://news.bit2me.com/cuales-son-los-principales-casos-de-uso-de-los-nft/
+-  **Sistema impulsa** *Fecha de consulta: 17 Diciembre de 2023* "Importancia de los NFTs" https://www.sistemaimpulsa.com/blog/como-funcionan-los-nfts-y-cual-es-su-importancia/
+-  **Observatorioblockchain** *Fecha de consulta: 18 Diciembre de 2023* "Plataformas de compra y venta de NFTs" https://observatorioblockchain.com/nft/las-10-plataformas-principales-de-compraventa-de-nfts/
+-  **Cyberclick** *Fecha de consulta: 18 Diciembre de 2023* "Pros y contras de los NFTs" https://www.cyberclick.es/numerical-blog/nfts-pros-y-contras-de-esta-tecnologia-y-ejemplos
+- **Xakata** *Fecha de consulta: 17 Diciembre de 2023* "Que son los NFTs y como funcionan" https://www.xataka.com/basics/que-nft-como-funcionan
