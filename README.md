@@ -54,6 +54,16 @@ forma conjunta."
 
 <img src="https://fotografias.larazon.es/clipping/cmsimages02/2022/02/03/8C20B879-A8EC-4CF4-9173-E666D39492C2/98.jpg?crop=1000,563,x0,y169&width=1900&height=1069&optimize=low&format=webply" alt="FLSTUDIO" width="600px">
 
+### ¿Qué son los NFTs?
+Los NFTs son Tokens no fungibles en decir son una especie de activos digitales únicos, la cual contiene un "certificado" que representa la autenticidad de un elemento en el ámbito de una red (Blockchain). Estos NFTs no son como las criptomonedas estas son fungibles y son utilizadas como medio de pago o intercambio, en cambio los NFTs al ser no fungibles son objetos digitales únicos e irrepetibles de esta manera pueden utilizarse para representar objetos digitales exclusivos. Pueden utilizarse para representar: 
+
+- Obras de arte
+- Música
+- Moda virtual
+- Gaming y videojuegos
+- Deportes
 
 
-### Referencias y Bibliografía
+
+
+## Referencias y Bibliografía
