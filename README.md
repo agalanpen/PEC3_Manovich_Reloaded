@@ -1,4 +1,4 @@
 # PEC3_Manovich_Reloaded
 UOC -PEC3_Manovich_Reloaded
 
-<img src="https://c0.klipartz.com/pngpicture/321/384/gratis-png-estacion-de-trabajo-de-audio-digital-fl-studio-linea-ableton-live-thumbnail.png" alt="FLSTUDIO" width="300px">
+<img src="https://static.wikia.nocookie.net/softwareprogramas-y-aplicaciones/images/0/0b/Flstudio.png/revision/latest?cb=20160301021919&path-prefix=es" alt="FLSTUDIO" width="300px">
