@@ -32,6 +32,21 @@ FLSTUDIO es un software creado por la empresa **imagine-line** en 1997, este sof
 #### Resumen
 FL Studio representa un estudio en hibridación, combinando varias tecnologías y funcionalidades como la de producción de música y edición de vídeo en una sola plataforma muy estable, flexible y de manera única.
 
+Por lo que: 
+> "Los medios ya simulados empezaron a intercambiar
+propiedades y técnicas. Fruto de ello, el metamedio ordenador pasó a
+contener infinitas nuevas especies. A la par, es verdad que observamos
+un proceso ininterrumpido de invención de novedades, pero lo que se
+inventa no son clases totalmente nuevas de medios, sino más bien
+nuevos elementos (nuevas técnicas para crear, modificar y compartir
+datos de medios). Tan pronto como se inventan, estos nuevos elementos
+empiezan a interaccionar con los ya existentes. Los procesos de
+invención e hibridación, por tanto, están muy relacionados y operan de
+forma conjunta.
+> 
+> — Página 199 del líbro de *El software toma el mando* de **Manovich**
+
+
 
 ## Re-descubriendo la hibridacion: Caso 2
 
