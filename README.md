@@ -82,6 +82,10 @@ Dependiendo de la red donde se esté trabajando hay distinta comisiones a la hor
 
 <img src="https://www.criptonoticias.com/wp-content/uploads/2018/12/GMO-miner%C3%ADa-cese-criptomonedas.jpg" alt="FLSTUDIO" width="600px">
 
+### Resumen
+
+En resumen los **NFTs** son las obras de arte tecnológicas del futuro, son muy seguras ya que utilizan el protocolo de las blockchain y es imposible falsificar nada ya que cada transacción tiene que ser validada. Gracias a las **plataforma de compra-venta de NFTs** se pueden intercambiar numerosas obras de arte de manera transparente y anónima ya que cada **dirección de wallet** es anónima y no va asociada a ninguna persona. Dentro de los casos de **hibridación** podemos categorizarlo dentro de hibridación en la que asociamos a un objeto digital un valor comercial mediante tecnología. 
+
 
 
 
