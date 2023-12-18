@@ -96,6 +96,10 @@ habitual».
 >
 > -Pagina 385 Sección de **notas**  del libro de *El software toma el mando* de **Manovich**
 
+
+
+## Conclusiones
+Me ha parecido un trabajo muy curioso y entretenido donde he aprendido a clasificar los tipos de hibridación según el libro de *El software toma el mando* de **Manovich**. Gracias a nuestro tutor por estar atento a todas las cuestiones que he tenido a la hora de elegir mi caso de hibridación he conseguido lograr los objetivos de esta entrega. También he aprendido mucho respecto a los casos escogidos, como en este caso **FLStudio** un programa para producir música y sobre el mundo de los  **NFTs** que permiten el comercio único de obras de arte como canciones, imágenes GIFs ... 
 ## Referencias y Bibliografía
 
 - **Wikipedia** *Fecha de consulta: 17 Diciembre de 2023* "Que es FLStudio" https://es.wikipedia.org/wiki/FL_Studio
@@ -104,3 +108,4 @@ habitual».
 -  **Observatorioblockchain** *Fecha de consulta: 18 Diciembre de 2023* "Plataformas de compra y venta de NFTs" https://observatorioblockchain.com/nft/las-10-plataformas-principales-de-compraventa-de-nfts/
 -  **Cyberclick** *Fecha de consulta: 18 Diciembre de 2023* "Pros y contras de los NFTs" https://www.cyberclick.es/numerical-blog/nfts-pros-y-contras-de-esta-tecnologia-y-ejemplos
 - **Xakata** *Fecha de consulta: 17 Diciembre de 2023* "Que son los NFTs y como funcionan" https://www.xataka.com/basics/que-nft-como-funcionan
+- **Manovich** *Fecha de consulta: 10 Diciembre de 2023* "El software toma el mando." EPUB de la Universitat Oberta de Catalunya
