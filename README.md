@@ -16,10 +16,10 @@ En este informe se examinará 2 casos de hibridación utilizando las caracterís
 
 ### ¿Qué es FLSTUDIO?
 
-<img src="https://dt7v1i9vyp3mf.cloudfront.net/styles/news_large/s3/imagelibrary/I/ImageLineFLStudio_01-7UzI.5_oP3D6.40iUCHMfKkFrP8_BNfp.jpg" alt="FLSTUDIO" width="400px">
+<img src="https://dt7v1i9vyp3mf.cloudfront.net/styles/news_large/s3/imagelibrary/I/ImageLineFLStudio_01-7UzI.5_oP3D6.40iUCHMfKkFrP8_BNfp.jpg" alt="FLSTUDIO" width="600px">
 
 
-FLSTUDIO es un software creado por la empresa **imagine-line** en 1997, este software se ha creado con el fin de producir música de manera sencilla y fácil para todos los productores, ha mejorado mucho a lo largo de estos últimos años. Tiene una serie de múltiples características: 
+FLSTUDIO es un software creado por la empresa **imagine-line** en 1997, este software se ha creado con el fin de producir música de manera sencilla y fácil para todos, ha mejorado mucho a lo largo de estos últimos años. Existen alternativas como por ejemplo GarageBand una aplicación exclusiva de Apple con la cual se puede producir música en múltiples dispositivos. FLStudio tiene una serie de múltiples características: 
 
 - Sintetizadores y pluggins.
 - Permite Grabaciones de audio 
@@ -28,6 +28,8 @@ FLSTUDIO es un software creado por la empresa **imagine-line** en 1997, este sof
 - Gran variedad de instrumentos
 - Compatibilidad con varios formatos de audio
 - Ofrece la capacidad de editar vídeos.
+
+Gracias a estas características de este software tenemos multiples de opciones para poder realizar en la aplicación, cabe destacar que tiene una interfaz muy sencilla, que simula que estas pintando a la hora de colocar los samples, también tiene una gran cantidad de Pluggins que hace que sea todo más sencillo a la hora de generar nuevos sonidos o ecualizarlos para mejorar sus fecuencias. 
 
 #### Resumen
 FL Studio representa un estudio en hibridación, combinando varias tecnologías y funcionalidades como la de producción de música y edición de vídeo en una sola plataforma muy estable, flexible y de manera única.
@@ -44,11 +46,14 @@ empiezan a interaccionar con los ya existentes. Los procesos de
 invención e hibridación, por tanto, están muy relacionados y operan de
 forma conjunta."
 > 
-> — Página 199 del líbro de *El software toma el mando* de **Manovich**
+> — Página 199 del libro de *El software toma el mando* de **Manovich**
 
 
 
-## Re-descubriendo la hibridacion: Caso 2
+## Re-descubriendo la hibridacion: Caso 2 -NFT 
+
+<img src="https://fotografias.larazon.es/clipping/cmsimages02/2022/02/03/8C20B879-A8EC-4CF4-9173-E666D39492C2/98.jpg?crop=1000,563,x0,y169&width=1900&height=1069&optimize=low&format=webply" alt="FLSTUDIO" width="600px">
+
 
 
 ### Referencias y Bibliografía
