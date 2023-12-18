@@ -72,7 +72,15 @@ Los NFTs al der no fungibles y únicos son muy importantes atrayendo múltiples 
 - NBA top shot (Plataforma oficial de la NBA)
 - X2Y2
 
-Dependiendo de la red donde se esté trabajando hay distinta comisiones a la hora de hacer el intercambio o transacción, ya que estamos trabajando en una blockchain y esta transacción de compra o venta tiene que ser verificada por un minero y a este hay que pagarlo. 
+Dependiendo de la red donde se esté trabajando hay distinta comisiones a la hora de hacer el intercambio o transacción, ya que estamos trabajando en una blockchain y esta transacción de compra o venta tiene que ser verificada por un minero y a este hay que pagarlo de esta manera se garantiza la transparencia y se evita la falsificación. 
+
+ ### Desventajas de los NFTs
+ Los NFTs tienen varias desventajas, en esta pequeña lista iremos enumerando las desventajas de estos.
+ 1. **Alta especulación**: Ya que los NFTs son irrepetibles y únicos en todo el mundo a parte de crear coleccionistas también hay grandes inversores que se dedican a la especulación de obras de arte para poder venderlos a un precio mucho mas alto y así de este modo obtienen beneficios
+ 2. **Contaminación**: Como ya se sabe para poder hacer una transacción en la blockchain se necesita que esa transacción sea verificada por un minero para después añadirla a la cadena de bloques, todo esto lleva a un trabajo computacional detrás muy grande, se estima que para hacer 100 transacciones de venta de estos NFTs se genera un impacto de 10 toneladas de CO2
+ 3. **Derechos de autor**: Cuando adquieres una obra de arte en NFTs los derechos de autor siguen siendo del creador del mismo, esto significa que invirtiendo una gran cantidad de dinero para adquirir esa obra los derechos de autor seguirán siendo del creador.
+
+
 
 
 
