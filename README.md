@@ -42,7 +42,7 @@ nuevos elementos (nuevas técnicas para crear, modificar y compartir
 datos de medios). Tan pronto como se inventan, estos nuevos elementos
 empiezan a interaccionar con los ya existentes. Los procesos de
 invención e hibridación, por tanto, están muy relacionados y operan de
-forma conjunta.
+forma conjunta."
 > 
 > — Página 199 del líbro de *El software toma el mando* de **Manovich**
 
