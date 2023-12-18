@@ -63,6 +63,17 @@ Los NFTs son Tokens no fungibles en decir son una especie de activos digitales �
 - Gaming y videojuegos
 - Deportes
 
+### Importancia de los NFTs 
+Los NFTs al der no fungibles y únicos son muy importantes atrayendo múltiples inversores de todo el mundo, de esta manera muchos coleccionistas pueden convertirse en **Propietarios Únicos** de obras de arte y dependiendo de la alta demanda de estos elementos pueden obtener altos márgenes de beneficio a la hora de venderlos. Se han creado múltiples plataformas para la compra-venta de estos elementos como son: 
+
+- OpenSea
+- MagicEden
+- LooksRare
+- NBA top shot (Plataforma oficial de la NBA)
+- X2Y2
+
+Dependiendo de la red donde se esté trabajando hay distinta comisiones a la hora de hacer el intercambio o transacción, ya que estamos trabajando en una blockchain y esta transacción de compra o venta tiene que ser verificada por un minero y a este hay que pagarlo. 
+
 
 
 
