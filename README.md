@@ -80,6 +80,8 @@ Dependiendo de la red donde se esté trabajando hay distinta comisiones a la hor
  2. **Contaminación**: Como ya se sabe para poder hacer una transacción en la blockchain se necesita que esa transacción sea verificada por un minero para después añadirla a la cadena de bloques, todo esto lleva a un trabajo computacional detrás muy grande, se estima que para hacer 100 transacciones de venta de estos NFTs se genera un impacto de 10 toneladas de CO2
  3. **Derechos de autor**: Cuando adquieres una obra de arte en NFTs los derechos de autor siguen siendo del creador del mismo, esto significa que invirtiendo una gran cantidad de dinero para adquirir esa obra los derechos de autor seguirán siendo del creador.
 
+<img src="https://www.criptonoticias.com/wp-content/uploads/2018/12/GMO-miner%C3%ADa-cese-criptomonedas.jpg" alt="FLSTUDIO" width="600px">
+
 
 
 
